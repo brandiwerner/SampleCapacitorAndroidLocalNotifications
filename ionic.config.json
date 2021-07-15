@@ -1,0 +1,7 @@
+{
+  "name": "sampleNotificationApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
