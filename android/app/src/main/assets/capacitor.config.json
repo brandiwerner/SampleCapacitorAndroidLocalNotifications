@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sampleNotificationApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

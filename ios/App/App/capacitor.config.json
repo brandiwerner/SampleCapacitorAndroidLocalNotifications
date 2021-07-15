@@ -1,0 +1,13 @@
+{
+	"appId": "com.example.app",
+	"appName": "sampleNotificationApp",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"presentationOptions": [
+			"badge",
+			"sound",
+			"alert"
+		]
+	}
+}
